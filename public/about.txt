@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Taprom
+- Font Author: Copyright 2019 The Taprom Project Authors (https://github.com/danhhong/Taprom)
+- Font Source: https://fonts.gstatic.com/s/taprom/v27/UcCn3F82JHycULbFQyk3-0kvHg.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
